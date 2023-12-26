@@ -16,6 +16,8 @@ body{
     border-radius: 5px;
     border: 2px solid black;
     font-size: 40px;
+    margin-bottom: 12px;
+    border-radius: 6px;
     
 
 }
@@ -27,6 +29,7 @@ body{
         border: 2px solid black;
         padding: 10px;
         margin: 8px;
+        background-color: rgb(12, 57, 97);
 }
 h1{
     font-size: 50px;
@@ -35,3 +38,10 @@ h1{
 .btn:hover{
     background-color: chartreuse;
 }
+div{
+    height: auto;
+    width: 350px;
+    background-color: grey;
+    border-radius: 6px;
+}
+
